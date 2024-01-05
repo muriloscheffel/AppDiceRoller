@@ -1,2 +1,2 @@
 # DiceRoller
- Role o dado
+ D6
